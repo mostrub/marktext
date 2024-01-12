@@ -16,6 +16,10 @@ description: >-
 
 ***
 
+{% content-ref url="https://app.gitbook.com/o/ewSwbK8leIUC349FF1UH/snippet/4309" %}
+[ysd](https://app.gitbook.com/o/ewSwbK8leIUC349FF1UH/snippet/4309)
+{% endcontent-ref %}
+
 <figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
