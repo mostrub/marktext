@@ -12,11 +12,6 @@
 
 ## Benutzerfreundliche Anleitungen
 
-* [Teams](benutzerfreundliche-anleitungen/teams/README.md)
-  * [Teams Externe Kommunikation](benutzerfreundliche-anleitungen/teams/teams-externe-kommunikation/README.md)
-    * [Share file://](benutzerfreundliche-anleitungen/teams/teams-externe-kommunikation/share-file.md)
-  * [Setup Teams](benutzerfreundliche-anleitungen/teams/setup-teams/README.md)
-    * [Page 2](benutzerfreundliche-anleitungen/teams/setup-teams/page-2.md)
 * [365](benutzerfreundliche-anleitungen/365/README.md)
   * [Services](benutzerfreundliche-anleitungen/365/services/README.md)
     * [Page 1](benutzerfreundliche-anleitungen/365/services/page-1.md)
@@ -25,3 +20,8 @@
   * [Database](benutzerfreundliche-anleitungen/365/database/README.md)
     * [Page 1](benutzerfreundliche-anleitungen/365/database/page-1.md)
 * [Renata URL](benutzerfreundliche-anleitungen/renata-url.md)
+* [Teams](benutzerfreundliche-anleitungen/teams/README.md)
+  * [Teams Externe Kommunikation](benutzerfreundliche-anleitungen/teams/teams-externe-kommunikation/README.md)
+    * [Share file://](benutzerfreundliche-anleitungen/teams/teams-externe-kommunikation/share-file.md)
+  * [Setup Teams](benutzerfreundliche-anleitungen/teams/setup-teams/README.md)
+    * [Page 2](benutzerfreundliche-anleitungen/teams/setup-teams/page-2.md)
