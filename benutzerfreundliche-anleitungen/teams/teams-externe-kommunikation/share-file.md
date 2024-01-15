@@ -56,3 +56,46 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/15.6.png" alt=""><figcaption></figcaption></figure>
 
+
+
+
+
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+
+{% endtab %}
+
+{% tab title="Untitled" %}
+## kdsafjklasfklajsdflkjasdlkfasdf
+
+asdf
+
+asdf
+
+* [ ] sadf
+* [ ] asd
+* [ ] f
+* [ ] asdf
+*
+
+fa
+
+sdf
+
+asdf
+{% endtab %}
+{% endtabs %}
