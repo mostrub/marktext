@@ -13,6 +13,11 @@
 ## Benutzerfreundliche Anleitungen
 
 * [365](benutzerfreundliche-anleitungen/365/README.md)
+  * [Mobile Setup](benutzerfreundliche-anleitungen/365/mobile-setup/README.md)
+    * [Apple](benutzerfreundliche-anleitungen/365/mobile-setup/apple/README.md)
+      * [iPad](benutzerfreundliche-anleitungen/365/mobile-setup/apple/ipad.md)
+      * [Einrichtung eines iPads mit 2FA ohne Telefon](benutzerfreundliche-anleitungen/365/mobile-setup/apple/einrichtung-eines-ipads-mit-2fa-ohne-telefon.md)
+    * [Android](benutzerfreundliche-anleitungen/365/mobile-setup/android.md)
   * [Services](benutzerfreundliche-anleitungen/365/services/README.md)
     * [Page 1](benutzerfreundliche-anleitungen/365/services/page-1.md)
   * [App](benutzerfreundliche-anleitungen/365/app/README.md)
@@ -25,3 +30,6 @@
     * [Share file://](benutzerfreundliche-anleitungen/teams/teams-externe-kommunikation/share-file.md)
   * [Setup Teams](benutzerfreundliche-anleitungen/teams/setup-teams/README.md)
     * [Page 2](benutzerfreundliche-anleitungen/teams/setup-teams/page-2.md)
+* [Page](benutzerfreundliche-anleitungen/page.md)
+
+## Group 1
